@@ -14,7 +14,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here]().
+## View live preview [here](https://anil-manal.netlify.app/).
 
 ---
 
@@ -106,7 +106,7 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/anil-manal/portfolio/tree/main/utils/data).
 
 Eg:
 
